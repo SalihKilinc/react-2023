@@ -5,7 +5,12 @@
 //import Jsx3 from "./components/Jsx1/Jsx3";
 
 //import Jsx4 from "./components/Jsx1/Jsx4";
-import Jsx5 from "./components/Jsx1/Jsx5";
+//import Jsx5 from "./components/Jsx1/Jsx5";
+//import Style1 from "./components/style.js/styl1";
+//import Style3 from "./components/style.js/style3";
+//import Style4 from "./components/style.js/style4"
+import Clock1 from "./components/05-clock1/clock1";
+
 
 
 function App() {
@@ -18,14 +23,17 @@ function App() {
      <Jsx2/>
       <Jsx3/>
       <Jsx4/>
+        <Jsx5/>
+             <Style1/>
+              <Style3/>
+     
+<Style4/>
       */}
       
-      <Jsx5/>
 
+<Clock1/>
+ 
 
-    
-     
-   
      
 
     </div>
